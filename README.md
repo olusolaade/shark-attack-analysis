@@ -1,4 +1,4 @@
-# Shark-Attack-Analysis
+# Shark-Attack-Analysis Using Power Bi
 
 ## Introduction
 This is a shark data analysis show how shark attacks human being over a period of time. This data visualized using Power BI is used to make data driven decisions.
