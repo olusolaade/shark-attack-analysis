@@ -1,4 +1,4 @@
-# shark-attack-analysis
+# Shark-Attack-Analysis
 
 ## Introduction
 This is a shark data analysis show how shark attacks human being over a period of time. This data visualized using Power BI is used to make data driven decisions.
@@ -40,4 +40,19 @@ ____
 
 
 ## VISUALIZATION Generated
-![](shart)
+![](sharkpage.png)
+
+___
+
+Conclusion and Recommendation
+Human Activity Influence: Many shark attacks occur in areas where humans engage in water activities, suggesting a correlation between human presence and incident rates.
+
+Species Specificity: Certain shark species are more frequently involved in attacks, such as great whites and bull sharks, likely due to their size, habitat, and feeding patterns.
+
+Geographical Variability: Attack frequencies vary by region, influenced by factors like water temperature, prey availability, and proximity to migration routes.
+
+Risk Mitigation: Strategies like beach closures, shark nets, and public education programs play crucial roles in mitigating risks and increasing public safety.
+
+Media Influence: The portrayal of shark attacks in media can sometimes exaggerate the actual risk, leading to misconceptions about the true frequency and danger posed by sharks.
+
+Thank you.
